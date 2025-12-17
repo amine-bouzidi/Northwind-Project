@@ -1,0 +1,13 @@
+# Analyse de données
+pandas==2.1.4
+numpy==1.24.4
+matplotlib==3.8.0
+seaborn==0.13.0
+
+# Connexion aux données
+pyodbc==5.0.1
+openpyxl==3.1.2
+
+# Utilitaires
+python-dotenv==1.0.0
+jupyter==1.0.0
